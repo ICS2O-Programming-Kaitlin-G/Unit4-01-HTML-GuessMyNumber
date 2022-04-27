@@ -1,0 +1,20 @@
+/* Created by: Katie
+* Created on: April 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit4-01-HTML-GuessMyNumber
+*/
+
+h1 {
+  color: goldenrod;
+  background-color: cornsilk;
+  border: 6px dotted saddlebrown;
+}
+
+body {
+  color: darkblue;
+}
+
+#guess-results {
+  background-color: rgb(73, 94, 136);
+  color: rgb(237, 189, 62);
+}
